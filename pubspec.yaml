@@ -19,6 +19,7 @@ environment:
 dependencies:
   bloc_pattern: ^2.5.1
   flutter_modular: ^0.5.1
+  dartz: ^0.8.9
   flutter:
     sdk: flutter
 
